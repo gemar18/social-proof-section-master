@@ -33,7 +33,7 @@ main {
 .one-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin: 100px auto;
+    margin: 60px auto;
     max-width: 100%;
 }
 
@@ -44,7 +44,7 @@ main {
 .intro h1 {
     font-weight: 700;
     max-width: 325px;
-    font-size: 50px;
+    font-size: 52px;
     color: var(--Magenta);
 }
 
@@ -137,15 +137,5 @@ main {
     width: 270px;
     margin-top: 20px;
     line-height: 1.3em;
-    font-size: 16px;
-}
+    font-size: 16px;}
 
-.attribution {
-
-    font-size: 11px;
-    text-align: center;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
-}
